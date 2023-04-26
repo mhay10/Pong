@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MibeXk0cAkIHLm3yB24/4RmpT3PLjn++4BblFt6qDxxkUJWaW8Gd9LeCovfUVUB3EYaRGuFCBeG+o7T5Cg2//Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Documents\\Pong\\Pong\\Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
